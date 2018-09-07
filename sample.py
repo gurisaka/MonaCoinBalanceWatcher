@@ -2,6 +2,7 @@
 # -*- Coding: utf-8 -*-
 
 from monacoin_balance_watcher import MonaCoinBalanceWatcher, WatchingStatusObject
+import time
 
 if __name__ == '__main__':
 	watching_status_object = WatchingStatusObject() #このオブジェクトを使って値の読み出しをスレッド外から行う
