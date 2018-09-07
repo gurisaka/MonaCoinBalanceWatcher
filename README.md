@@ -1,4 +1,6 @@
 # MonaCoin Balance Watcher
+![screenshot from 2018-09-07 16-55-55](https://user-images.githubusercontent.com/36693422/45206123-2db2f280-b2bf-11e8-840f-0272ee7dbcf8.png)
+
 ### Useage
 以下のソースコードを参照
 ```#!/usr/bin/python
